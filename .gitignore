@@ -424,3 +424,5 @@ FodyWeavers.xsd
 Echo/storage/**
 /.idea/.idea.Echo/.idea
 style.min.css
+*.lockb
+Echo/Styles/package-lock.json
